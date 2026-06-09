@@ -1,3 +1,8 @@
+// ========================================
+// PDF Manager - UAS PBO
+// Backend Developer: Dini Prihartini
+// Fitur: REST API untuk CRUD file PDF
+// ========================================
 const express = require('express');
 const multer = require('multer');
 const cors = require('cors');
